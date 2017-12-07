@@ -8,6 +8,9 @@ utilizes 2 ultrasonic sensors in the front to detect an object's distance away f
 Manual Control:
 a seperate breadboard is connected to the mainboard via a long wire, which connects to an analog pin on the arduino. The breadboard has 4 buttons for forward, backward, left, and right. Each button has a different resistor connected to it, causing different voltage when it is pressed. The arduino then reads the detected voltage and commands the motor driver to respond. 
 
+Requires newliquidcrystal library for lcd to work
+https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads/
+
 Schematics:
 ![CarBot](https://github.com/fengmaster4689/carbot/blob/master/carbot.PNG)
 Parts Used: Arduino Uno, 2x 9V-Battery, 2 Ultrasonic Sensor, LCD Screen, Motor Driver, 4 DC mtoor, Potentiometer, 4x buttons, and multiple resistors.
