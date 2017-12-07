@@ -16,3 +16,5 @@ Video Demonstration:
 
 [![CarBot](https://github.com/MichaelJWelsh/carbot/blob/master/youtube.png)](https://www.youtube.com/watch?v=_SSJAW3uo78 "CarBot")
 
+Final Moments:
+![CarBot](https://github.com/fengmaster4689/carbot/blob/master/carbotgif.gif)
