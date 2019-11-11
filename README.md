@@ -1,6 +1,6 @@
 # carbot
 
-This was created as the Final Project in our freshmen EE class. The main features for the carbot is being capable of detecting and following objects in front of it, as well as switching to manual control mode where the bot is controlled with a simple controller.
+This was created as my first project using a microcontroller. The main features for the carbot is being capable of detecting and following objects in front of it, as well as switching to manual control mode where the bot is controlled with a simple controller.
 
 Automatic Follow:
 utilizes 2 ultrasonic sensors in the front to detect an object's distance away from it, displaying the measurements onto the LCD screen, then following the object depending on which sensor detects it.
